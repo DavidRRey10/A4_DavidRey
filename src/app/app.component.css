@@ -1,0 +1,21 @@
+:host() {
+    display: flex;
+    flex-direction: column;
+}
+
+app-footer {
+    align-self:flex-end;
+    color: #ff0000;
+    
+
+}
+
+.space {
+    flex-grow: 1;
+    
+}
+
+.content{
+    text-align: center;
+    color: #ff0000;
+}
